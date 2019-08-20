@@ -1,0 +1,66 @@
+
+<html>
+                      <footer class="footer footer-v1">
+                        <div class="content-block footer-main pb-3">
+                          <div class="container">
+                             <div class="row">
+                               <div class="col-lg-2">
+                                  <div class="footer-logo mt-2">
+                                   <img src="img/jaic_logo.png" alt="jaic_logo">
+                                 </div>
+                              </div>
+                            <div class="col-lg-4">
+                          </div>
+                        <div class="col-lg-2">
+                            <h4>JAIC</h4>
+                            <div class="footer-nav">
+                                <ul>
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">About JAIC</a></li>
+                                    <li><a href="#">Disclaimer</a></li>
+                                    <li><a href="#">Accessibility</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2">
+                            <h4>Policies</h4>
+                            <div class="footer-nav">
+                                <ul>
+                                    <li><a href="#">No Fear Act</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Cybersecurity Policy</a></li>
+                                    <li><a href="#">FOIA</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-2">
+                            <h4>Links</h4>
+                            <div class="footer-nav">
+                                <ul>
+                                    <li><a href="https://www.defense.gov">Defense.gov</a></li>
+                                    <li><a href="https://www.usa.gov">USA.gov</a></li>
+                                    <li><a href="/careers">Careers</a></li>
+                                    <li><a href="/contact">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+			<div class="footer-bottom">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 pb-3">
+                            <p>© 2019 JAIC - Joint Artificial Intelligence Center </p>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="social-network with-text">
+                                <li><a href="#"><span class="icon-facebook"></span></a></li>
+                                <li><a href="#"><span class="icon-twitter"></span></a></li>
+                                <li><a href="#"><span class="icon-instagram"></span></a></li>
+                                <li><a href="#"><span class="icon-linkedin"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </html>
